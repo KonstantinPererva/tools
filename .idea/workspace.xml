@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36aadb5b-a8b2-4108-ba40-214c9c4f4e09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/mouseDownDragScroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/mouseWeelScrollLeft.js" afterDir="false" />
-    </list>
+    <list default="true" id="36aadb5b-a8b2-4108-ba40-214c9c4f4e09" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +63,7 @@
       <updated>1608726364811</updated>
       <workItem from="1608726366147" duration="778000" />
       <workItem from="1608802477898" duration="189000" />
-      <workItem from="1610792842173" duration="936000" />
+      <workItem from="1610792842173" duration="1249000" />
     </task>
     <servers />
   </component>
